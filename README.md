@@ -1,16 +1,12 @@
-### Hi there 👋
+<span>hi, my name is</span>
+<h1>Eric Carroll</h1>
+<br>
+<p>26 year old guy Dominican-Canadian, <b>FrontEnd student</b> based in Montreal<br> building a better future pursuing always my dream with hard work.<br>You will never know whats going to happen until you try and fail over and over.<br>Built not only to solve problems but find solutions to those.</p>
 
-<!--
-**EricCarroll26/EricCarroll26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">Languages and Tools</h2>
+<p align="center"
+<img alt="HTML" wigth="50px" src="" />
+<img alt="CSS" wigth="50px" src="" />
+<img alt="JS" wigth="50px" src="https://vectorwiki.com/images/G9sE3__javascript.svg" />
+<img alt="React" wigth="50px" src="" />
+<img alt="VSCode" wigth="50px" src="" />
