@@ -27,5 +27,4 @@
     <a href="https://www.facebook.com/EricWmejia">
     <img id="facebook" width="40px" src="https://img.icons8.com/stickers/256/facebook.png" />
   </a>
-
 </div>
