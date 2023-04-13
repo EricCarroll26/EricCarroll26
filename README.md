@@ -5,8 +5,8 @@
 
 <h2 align="center">Languages and Tools</h2>
 <p align="center"
-<img alt="HTML" wigth="50px" src="" />
+<img alt="HTML" wigth="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img alt="CSS" wigth="50px" src="" />
-<img alt="JS" wigth="50px" src="https://vectorwiki.com/images/G9sE3__javascript.svg" />
+<img alt="JS" wigth="50px" src="" />
 <img alt="React" wigth="50px" src="" />
 <img alt="VSCode" wigth="50px" src="" />
